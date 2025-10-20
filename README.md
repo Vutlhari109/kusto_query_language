@@ -1,0 +1,1 @@
+# kusto_query_language
