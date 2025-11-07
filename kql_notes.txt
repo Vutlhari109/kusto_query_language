@@ -1,0 +1,11 @@
+| Category    | Common Operators                                             |
+| ----------- | ------------------------------------------------------------ |
+| Filtering   | `where`, `==`, `in`, `between`, `and`, `or`                  |
+| String      | `contains`, `has`, `startswith`, `endswith`, `matches regex` |
+| Aggregation | `summarize`, `count()`, `avg()`, `dcount()`, `make_set()`    |
+| Join        | `join`, `union`, `lookup`                                    |
+| Projection  | `project`, `extend`, `rename`, `project-away`                |
+| Sorting     | `sort`, `top`, `take`                                        |
+| Time        | `ago()`, `datetime()`, `bin()`                               |
+| Misc        | `mv-expand`, `parse_json()`, `evaluate`, `distinct`          |
+

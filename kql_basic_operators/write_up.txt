@@ -1,0 +1,11 @@
+Kusto Query Language ( KQL )
+
+* Learning Outcome
+
+- Using comparison operators to compare data
+- Using Filtering operators to flter out columns and values
+- Using join and union operators to join columns and tables
+- Using pipeline operators to pipe multiple kql arguments
+- Using string operators to wrap strings
+- Using time operators to filter columns, values based on specific time interval
+
